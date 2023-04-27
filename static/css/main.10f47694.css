@@ -1,0 +1,2 @@
+.load_img{left:50%;position:absolute;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}@media screen and (min-width:768px){.header{background-color:#ccc;height:100vh;left:0;position:fixed;top:0;width:180px}.header h1{padding:15px 0;text-align:center}main{box-sizing:border-box;left:180px;padding:30px;position:absolute;width:calc(100% - 180px)}}@media screen and (max-width:767px){.header{position:fixed;text-align:center;top:0;width:100%}main{padding:10px;position:absolute;top:100px}}
+/*# sourceMappingURL=main.10f47694.css.map*/
